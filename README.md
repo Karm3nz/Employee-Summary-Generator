@@ -14,7 +14,8 @@ One of the most important aspects for a Team Manager is knowing their team! This
 * [License](#license)
 
 
-## Installation 💾
+## Installation 
+💾
 
 * Make sure to have a text editor of your choice installed (the example below shows "Visual Studio Code").
 * Install node.js here: https://nodejs.org/en/download/
@@ -26,7 +27,8 @@ One of the most important aspects for a Team Manager is knowing their team! This
 ![Employee Summer Generator Prompted Questions](./assets/employeeSummaryGenerator_commandLine.png)
 
 
-## Usage 🔧
+## Usage 
+🔧
 
 ### User Story:
 ```
@@ -38,7 +40,8 @@ so that I have quick access to emails and GitHub profiles
 After installation, the user can follow along with the prompted questions in the command-line until they're given the confirmation that the team.html file is successfully written to. From here, the user can navigate to the "output" folder to view the generated README.
 
 
-## License 🛡️
+## License 
+🛡️
 
 MIT License
 
