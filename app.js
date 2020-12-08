@@ -58,6 +58,7 @@ function appMenu() {
         message: "What is your manager's id?",
         validate: answer => {
           const pass = answer.match(
+            // regex, digit from 1-9, any ONE, ocurring/reocurring once or more
             /^[1-9]\d*$/
           );
           if (pass) {
@@ -72,6 +73,7 @@ function appMenu() {
         message: "What is your manager's email?",
         validate: answer => {
           const pass = answer.match(
+            // regex, "\." matches "."
             /\S+@\S+\.\S+/
           );
           if (pass) {
